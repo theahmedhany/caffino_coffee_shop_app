@@ -32,7 +32,7 @@ Caffino is a sophisticated mobile application tailored for coffee enthusiasts, o
 https://github.com/user-attachments/assets/1faf5112-371c-439e-b69a-aa1cd471434b
 
 
-#### Explore the application post on LinkedIn: <a target="_blank" href="*************"> Click Here. </a>
+#### Explore the application post on LinkedIn: <a target="_blank" href="https://www.linkedin.com/posts/theahmedhany_dart-flutter-provider-activity-7256945120749502465-SE0k?utm_source=share&utm_medium=member_desktop"> Click Here. </a>
 
 -----
 
